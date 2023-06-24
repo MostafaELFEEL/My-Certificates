@@ -17,8 +17,6 @@
     • Adjust the entry and exit control of the gates automatically (by cards or fingerprint) or the password, biotechnology.
 
     • Installation of access control systems (attendance devices, electronic locks, gates for individuals and cars, baggage screening machines.
-  
-    • Principle component analysis PCAe-algorithm.
 
     • Connect access control systems on the private network site.
   #####    Total training hours: 60
