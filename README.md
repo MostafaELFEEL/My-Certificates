@@ -3,24 +3,22 @@
 ### ZKteco access control(Summer 2021)
 #### Training Objectives:
   #####     Course Theoretical Framework:
-    • Network design for smart security cameras.
+    • Access control systems (attendance devices, electronic locks, gates crossing individuals and cars, baggage screening devices.
 
-    • Building indoor and outdoor surveillance camera networks.
+    • Compare AI algorithms to control access.
 
-    • Network testing and determination of the caplet efficiency of the surveillance camera system.
+    • Different types of fingerprint devices.
 
-    • Security standards for the protection of inactive and mobile data and the application of controls In detailed access.
+    • Biotechnology algorithms.
 
   #####     Technical and professional knowledge:
-    • The basics of light science and its attachment to surveillance cameras. 
+    • Connect access control systems on the private network site. 
 
-    • The basic components of surveillance cameras of various kinds.
+    • Adjust the entry and exit control of the gates automatically (by cards or fingerprint) or the password, biotechnology.
 
-    • Quality standards for surveillance cameras.
+    • Installation of access control systems (attendance devices, electronic locks, gates for individuals and cars, baggage screening machines.
   
     • Principle component analysis PCAe-algorithm.
 
-    • The approach and method of what is known as "eigenface" to apply PCA algorithm on portraits of faces.
-  
-    • The most important camera malfunctions and their solutions.
-  #####    Total training hours: 60 
+    • Connect access control systems on the private network site.
+  #####    Total training hours: 60
