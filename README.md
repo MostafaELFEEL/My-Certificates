@@ -23,3 +23,4 @@
     • The approach and method of what is known as "eigenface" to apply PCA algorithm on portraits of faces.
   
     • The most important camera malfunctions and their solutions.
+  #####    Total training hours: 60 
