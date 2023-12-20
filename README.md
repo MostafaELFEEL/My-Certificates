@@ -1,21 +1,50 @@
 # My-Certificates
+
 ## Trainings without Certificates
-### ZKteco access control(Summer 2021)
+
+### ZKteco Access Control (Summer 2021)
+
+---
+
 #### Training Objectives:
-  #####     Course Theoretical Framework:
-    • Access control systems (attendance devices, electronic locks, gates crossing individuals and cars, baggage screening devices.
 
-    • Compare AI algorithms to control access.
+The ZKteco Access Control training program aimed to provide comprehensive knowledge and skills related to access control systems. The course delved into both theoretical frameworks and practical applications, equipping participants with essential competencies.
 
-    • Different types of fingerprint devices.
+---
 
-    • Biotechnology algorithms.
+##### Course Theoretical Framework:
 
-  #####     Technical and professional knowledge:
-  
-    • Adjust the entry and exit control of the gates automatically (by cards or fingerprint) or the password, biotechnology.
+- **Access Control Systems:** 
+  - Overview of attendance devices
+  - Electronic locks
+  - Gates for individual and vehicle access
+  - Baggage screening devices
 
-    • Installation of access control systems (attendance devices, electronic locks, gates for individuals and cars, baggage screening machines.
+- **AI Algorithms:** 
+  - Comparative analysis of AI algorithms utilized in access control
 
-    • Connect access control systems on the private network site.
-  #####    Total training hours: 60
+- **Fingerprint Devices:** 
+  - Exploration of different types of fingerprint recognition devices
+
+- **Biotechnology Algorithms:** 
+  - Insights into algorithms based on biometric technologies
+
+---
+
+##### Technical and Professional Knowledge:
+
+- **Gate Control:** 
+  - Automatic control mechanisms for entry and exit points using cards, fingerprints, or passwords
+
+- **System Installation:** 
+  - Practical skills in installing various access control systems, including attendance devices, electronic locks, and gates for individuals and vehicles
+
+- **Network Integration:** 
+  - Connecting access control systems to private network sites for seamless operation
+
+---
+
+##### Training Duration:
+
+- **Total Training Hours:** 60 hours
+
