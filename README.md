@@ -48,3 +48,32 @@ The ZKteco Access Control training program aimed to provide comprehensive knowle
 
 - **Total Training Hours:** 60 hours
 
+---
+
+### Electrical and Maintenance Training on Semi-Automated Production Line at ADD-ME Egypt (Summer 2021)
+
+---
+
+#### Training Objective:
+
+Equip participants with foundational skills in electrical systems and maintenance practices for semi-automated production lines at ADD-ME Egypt, ensuring optimal performance and safety.
+
+---
+
+#### Technical Knowledge:
+
+- **Basic electrical principles and circuitry.**
+  
+- **Troubleshooting and diagnostics of semi-automated machinery.**
+  
+- **Maintenance protocols specific to ADD-ME Egypt's production environment.**
+  
+- **Safety measures and compliance standards.**
+
+---
+
+#### Training Duration:
+
+- **1 Month**
+
+---
